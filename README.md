@@ -4,9 +4,11 @@
 
 I'm **Alex**, a curious **programmer** 👨‍💻 and proud **father of two** 👫, always exploring the world of **technology** 🔧 and how things work ⚙️.
 
+I enjoy building reliable backend systems and practical tools that solve real problems.
+
 In my free time, I enjoy **reading about space and astrophysics** 🪐🌕, **playing computer games** 🎮 with my kids, **working out** 💪 and going on **bike rides** 🚴‍♂️.
 
-Currently, I work as a **Back-End Developer** at **Lenovo**, where I contribute to projects like [**Lenovo XClarity Orchestrator**](https://pubs.lenovo.com/lxco/lxco-overview), a centralized resource management solution. Previously, I worked at **SAP** on [**SAP Product Lifecycle Costing**](https://www.sap.com/romania/products/scm/product-lifecycle-costing.html), developing expertise in enterprise software systems.
+Currently, I work as a **Back-End Developer** at **Lenovo**, where I contribute to projects like [**XClarity One (On-Prem and Cloud)**](https://lenovopress.lenovo.com/lp1992-lenovo-xclarity-one) and [**Lenovo XClarity Orchestrator**](https://pubs.lenovo.com/lxco/lxco-overview), a centralized resource management platform. Previously, I worked at **SAP** on [**SAP Product Lifecycle Costing**](https://www.sap.com/romania/products/scm/product-lifecycle-costing.html), developing expertise in enterprise software systems.
 
 
 
@@ -48,5 +50,6 @@ Currently, I work as a **Back-End Developer** at **Lenovo**, where I contribute 
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
+Always open to connecting around backend engineering, automation, and practical product ideas.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xanderon&color=blue)
